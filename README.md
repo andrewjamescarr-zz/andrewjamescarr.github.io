@@ -1,4 +1,4 @@
-# Andrew Carr - README / User Guide
+# README
 ---
 ## Introduction
 <img align="right" src="https://user-images.githubusercontent.com/26958886/170279034-4abdc690-d43c-4412-b9c3-76c4c763986e.jpg">
@@ -36,32 +36,32 @@ If you have your own User Guide, please share it with me so I can learn how best
 * Sending things before I allow my wife to proof read them
 
 ### Favourite quote
-> It is good to have an end to journey toward; but it is the journey that matters, in the end
-- Ursula K. Le Guin
+> It is good to have an end to journey toward; but it is the journey that matters, in the end - Ursula K. Le Guin
 
 ---
 
 ## How we should work together
 
 ### Communication
-* My preferred hierarchy of communication (least → most urgent): Email → Teams → WhatsApp → Phone Call
-* I prefer email.  My mind works in neat boxes of "subject", "sender", "date/time"
-* Real-time sometimes, asynchronous most of the time
-* I don't expect a response to anything in real-time. If it's urgent, the hierarchy of communication should change
-* Back and forth discussions in Email/Teams/WhatsApp?  I might suggest we move to real-time (voice/video)
-* I mostly prefer long-form writing using collaboration tools
-* Microsoft Teams
-  * Please don't say just hello in chat. See [NoHello](https://nohello.net/en/)
-* Email
-  * I read all of them.  I'll only reply if an [ACK](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) is required
-  * CC email when it's only for information.  I filter out CC emails into another folder.  I'll read them less often than those sent TO me
-  * Use the @mentions feature if you want to highlight an action
-* [Bottom Line Up Front](https://www.linkedin.com/pulse/deliver-bottom-line-up-front-andrew-james-carr/ "Deliver the Bottom Line Up Front") everything
+
+My preferred hierarchy of communication for least → most urgent: Email → Teams → WhatsApp → Phone Call
+I prefer email.  My mind works in neat boxes of "subject", "sender", "date/time"
+Real-time sometimes, asynchronous most of the time
+I don't expect a response to anything in real-time. If it's urgent, the hierarchy of communication should change
+If we're having a real-time conversation in Email, Teams, WhatsApp, then I might suggest we move to voice/video
+I mostly prefer long-form writing using collaboration tools
+When using Microsoft Teams, please don't just say 'Hello' in chat.  See [NoHello](https://nohello.net/en/)
+
+**Email**
+I read all of them.  I'll only reply if an [ACK](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) is required
+CC email when it's only for information.  I filter out CC emails into another folder.  I'll read them less often than those sent TO me
+Use the [@mentions](https://support.microsoft.com/en-us/office/use-mentions-to-get-someone-s-attention-90701709-5dc1-41c7-aa48-b01d4a46e8c7) feature if you want to highlight an action
+[Bottom Line Up Front](https://www.linkedin.com/pulse/deliver-bottom-line-up-front-andrew-james-carr/ "Deliver the Bottom Line Up Front") everything
   * Actions and due dates at the top
   * Conclusion first, main points, then facts and data to support the conclusion
-* I have a direct communication style.  I say what I mean.  I'll be explicit and unambiguous
-* I am clearer in writing than in person. In person, I may talk my thoughts out loud which can feel rambling; you'll get to see my mind at work -- good luck ;)
-* [Back-channelling is toxic](https://lsaglobal.com/how-to-stop-back-channeling-at-work/).  I'll be transparent
+I have a direct communication style.  I say what I mean.  I'll be explicit and unambiguous
+I am clearer in writing than in person. In person, I may talk my thoughts out loud which can feel rambling; you'll get to see my mind at work -- good luck ;)
+[Back-channelling is toxic](https://lsaglobal.com/how-to-stop-back-channeling-at-work/).  I'll be transparent
 
 ### How I like to work
 * [The Pyramid of Communication](https://nozbe.com/blog/communication-pyramid/) (most → least preferred) 
