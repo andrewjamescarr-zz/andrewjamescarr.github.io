@@ -38,28 +38,41 @@ If you have your own User Guide, please share it with me so I can learn how best
 ### Favourite quote
 > It is good to have an end to journey toward; but it is the journey that matters, in the end - Ursula K. Le Guin
 
+### Books I'm reading
+_As of 4th June 2022_
+* The Little Book of Hygge (The Danish Way to Live Well)
+* Surrounded by Idiots
+* Something Doesn't Add Up
+
+### Things I'm interested right now
+_As of 4th June 2022_
+* [Digital compartmentalisation](https://medium.com/codex/everyone-should-implement-digital-compartmentalization-e1cc45395db2)
+* Github Pages
+* Home Assistant
+* Work productivity
+
 ---
 
 ## How we should work together
 
 ### Communication
 
-My preferred hierarchy of communication for least → most urgent: Email → Teams → WhatsApp → Phone Call.
+My preferred hierarchy of communication (least → most urgent): Email → Teams → WhatsApp → Phone Call.
 
-I prefer email.  My mind works in neat boxes of "subject", "sender", "date/time".
+I prefer email to be used when detailed information and data needs to be shared.  I find emails must easier when retreival is required at a later date.
 
 Real-time sometimes, asynchronous most of the time.
 
 I don't expect a response to anything in real-time. If it's urgent, the hierarchy of communication should change.
 
-If we're having a real-time conversation in Email, Teams, WhatsApp, then I might suggest we move to voice/video.
+If we find ourselves in an almost real-time conversation on email or Teams, or if takes more than 2-3 messages to bring closure to a topic, then I may suggested we move to voice/video.
 
-I mostly prefer long-form writing using collaboration tools.
+I mostly prefer long-form writing using collaboration tools such as Confluence.
 
-When using Microsoft Teams, please don't just say 'Hello' in chat.  See [NoHello](https://nohello.net/en/).
+Don't expect an answer if you just write "Hello" in Microsoft Teams chat. Phrase your message that allows me to provide a meaningful response as soon as I've read and had time to answer.  Find our more at [https://NoHello.net](https://nohello.net/en) or [https://aka.ms/nohello](https://aka.ms/nohello)
 
 **Email**
-I read all of them.  I'll only reply if an [ACK](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) is required.
+I read all of them.  I only reply if it is needed.  I very rarely reply saying "thanks";  I'll often thank you the next time we meet or chat. 
 
 'CC' me on email when it's only for information.  I filter out CC emails into another folder.  I'll read them less often than those sent TO me.  
 
