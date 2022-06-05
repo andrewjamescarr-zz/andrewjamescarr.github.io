@@ -41,6 +41,7 @@ If you have your own User Guide, please share it with me so I can learn how best
 ### Books I'm reading
 _As of 4th June 2022_
 * The Little Book of Hygge (The Danish Way to Live Well)
+* [No Office](https://nooffice.org/book/) (because works is something you do, not where you go)
 * Surrounded by Idiots
 * Something Doesn't Add Up
 
