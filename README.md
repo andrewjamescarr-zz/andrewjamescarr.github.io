@@ -47,9 +47,9 @@ _As of 4th June 2022_
 ### Things I'm interested right now
 _As of 4th June 2022_
 * [Digital compartmentalisation](https://medium.com/codex/everyone-should-implement-digital-compartmentalization-e1cc45395db2)
-* Github Pages
-* Home Assistant
-* Work productivity
+* [GitHub Pages](https://docs.github.com/en/pages/quickstart "GitHub Pages Quick Start)
+* Building the most efficient point to point WiFi to my garden office. 
+* User Guides
 
 ---
 
@@ -113,10 +113,9 @@ _As of 4th June 2022_
 | Defect      | Workaround  |
 | ----------- | ----------- |
 | **Migraine**:  High levels of stress, excessive tiredness, lack of regular eating/drinking habits contribute to onset of migraine. Early outwardly recognisable symptons: (1) Inability to concentrate on seemingly simple tasks (2) Emesis (in extreme cases where workarounds are not present) | Sleep. Preferably in a dark room.  Early access to Coffee, Painkillers, Sumatriptan.|
-|I sometimes assume everyone has the same context as I do. If that happens, I might not communicate the context or my perspective as clearly as I should.| Please remind me to provide more context if I do this. |
+| **Context assumption**:  I sometimes assume everyone has the same context as I do. If that happens, I might not communicate the context or my perspective as clearly as I should.| Please remind me to provide more context if I do this. |
 
 ### TODO
-* Use https://github.com/simalexan/s3-lambda-markdown-to-html-s3 or something similar to push this to HTML on my website.
 * I don't like surprises
 * Names are our identity
 * My humour (or lack of, according to my 9yr old)
