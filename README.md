@@ -77,11 +77,11 @@ _As of 4th June 2022_
   * Conclusion first, main points, then facts and data to support the conclusion
 
 ### How I like to work
-* [The Pyramid of Communication](https://nozbe.com/blog/communication-pyramid/) (most → least preferred) 
+* I want to spend as much time in Level 1 of [The Pyramid of Communication](https://nozbe.com/blog/communication-pyramid/):
   * Level 1: Deep work
-  * Level 2: Feedback
-  * Level 3: Back and Forth
-  * Level 4: Talking to each other
+  * Level 2: Feedback loops
+  * Level 3: Direct messaging
+  * Level 4: Immediate feedback / talking to each other
   * Level 5: Meetings
 * I really dislike context switching. My decision making abilities will suffer.  My technqiues to avoid:
   * 15 minute gaps between short(er) meetings → it provides me time to reflect / decompress.
@@ -89,6 +89,9 @@ _As of 4th June 2022_
   * Time blocking: Dividing my day into blocks, such as 'meetings', 'email', and 'deep work'. I'll block out time in my calendar.
   * [Pomodoro Technique](https://pomofocus.io/)
 * I need time and space to reflect, especially on problems or decisions.  I need time to formulate a well-framed rationale for why I think what I think.  Or I need a framework in mind when working through something.
+* I minimise distractions as much as possible; in practice, this means:
+  * Email notifications are always _turned off_
+  * Microsoft Teams will be set to _Do Not Disturb_ when I'm in 'deep work'
 
 ### Logistics
 * I prefer to work during pre-defined 'core hours' (9am - 5pm); but where I have to manage a healthy work/life balance (childcare, children's sports days, running errands), then these times may change slightly. (Refer to my calendar rules).
