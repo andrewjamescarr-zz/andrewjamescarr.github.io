@@ -47,7 +47,7 @@ _As of 4th June 2022_
 ### Things I'm interested right now
 _As of 4th June 2022_
 * [Digital compartmentalisation](https://medium.com/codex/everyone-should-implement-digital-compartmentalization-e1cc45395db2)
-* [GitHub Pages](https://docs.github.com/en/pages/quickstart "GitHub Pages Quick Start)
+* [GitHub Pages](https://docs.github.com/en/pages/quickstart "GitHub Pages Quick Start")
 * Building the most efficient point to point WiFi to my garden office. 
 * User Guides
 
