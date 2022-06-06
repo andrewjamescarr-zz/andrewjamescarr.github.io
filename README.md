@@ -17,7 +17,7 @@ If you have your own User Guide, please share it with me so I can learn how best
 * Why I took up running
 * The time I handcuffed myself to a shopping trolley
 * The Back to the Future Trilogy
-* How I became qualified as a 'touch-typist' at age 16.  I hold RSA I, II and III, Pitman Advanced, and C&G qualifications
+* Why I became qualified as a 'touch-typist' at age 16.  I hold RSA I, II and III, Pitman Advanced, and C&G qualifications
 * One space or two spaces after a full stop; discuss
 
 ### What I'm good at
@@ -59,7 +59,7 @@ _As of 4th June 2022_
 ### Communication
 
 * My preferred hierarchy of communication (least → most urgent): Email → Teams → WhatsApp → Phone Call.
-* I prefer email to be used when detailed information and data needs to be shared.  I find emails must easier when retreival is required at a later date.
+* I prefer email to be used when detailed information and data needs to be shared.  I find emails much easier when retreival is required at a later date.
 * Real-time sometimes, asynchronous most of the time.
 * I don't expect a response to anything in real-time. If it's urgent, the hierarchy of communication should change.
 * If we find ourselves in an almost real-time conversation on email or Teams, or if takes more than 2-3 messages to bring closure to a topic, then I may suggested we move to voice/video.
