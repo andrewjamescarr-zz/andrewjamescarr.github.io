@@ -118,11 +118,10 @@ _As of 4th June 2022_
 | ----------- | ----------- |
 | **Migraine**:  High levels of stress, excessive tiredness, lack of regular eating/drinking habits contribute to onset of migraine. Early outwardly recognisable symptons: (1) Inability to concentrate on seemingly simple tasks (2) Emesis (in extreme cases where workarounds are not present) | Sleep. Preferably in a dark room.  Early access to Coffee, Painkillers, Sumatriptan.|
 | **Context assumption**:  I sometimes assume everyone has the same context as I do. If that happens, I might not communicate the context or my perspective as clearly as I should.| Please remind me to provide more context if I do this. |
+| **Misophonia**: Some noises, such as loud eating noises, will trigger an emotional response.  | If I eat at the same time, the effect is lessened and normality will be restored.  In extreme cases, I will make my excuses and leave for a period of time;  I may dress this up  as "going to get a coffee" |
+
 
 ### TODO
 * I don't like surprises
 * Names are our identity
 * My humour (or lack of, according to my 9yr old)
-* Accountabilities / resonsibilities -- in a new role?
-
-
