@@ -7,7 +7,6 @@ A user guide for Andrew Carr.  I offer this to you because the faster we get to 
 
 If you have your own User Guide, please share it with me so I can learn how best to work with you.
 
-
 ---
 
 ## Quick Facts
@@ -119,6 +118,50 @@ _As of 4th June 2022_
 | **Migraine**:  High levels of stress, excessive tiredness, lack of regular eating/drinking habits contribute to onset of migraine. Early outwardly recognisable symptons: (1) Inability to concentrate on seemingly simple tasks (2) Emesis (in extreme cases where workarounds are not present) | Sleep. Preferably in a dark room.  Early access to Coffee, Painkillers, Sumatriptan.|
 | **Context assumption**:  I sometimes assume everyone has the same context as I do. If that happens, I might not communicate the context or my perspective as clearly as I should.| Please remind me to provide more context if I do this. |
 | **Misophonia**: Some noises, such as loud eating noises, will trigger an emotional response.  | If I eat at the same time, the effect is lessened and normality will be restored.  In extreme cases, I will make my excuses and leave for a period of time;  I may dress this up  as "going to get a coffee" |
+
+---
+
+## Version Information
+**Current Version:  v2.18.0**
+
+All notable changes to the User Guide will be documented in this changelog.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning for Documents](https://semverdoc.org/).
+
+### [2.18.0] - 2022-06-07
+ - Added changelog/version section
+
+### [2.0.0] - [2.17.0]
+ - New repo created.  Old repo deprecated/archive
+ - Reconfiguration to support Jekyll and Github Pages.
+ - Minor changes to layout and typos.  Check Commits for more information
+
+### [1.3.0] - 2022-05-27
+ - Removed period from each bullet
+ - Improved layout of communications
+ - Improved readabilty of communications (the irony!)
+ - Added in "NoHello" for teams converastions
+ - Made it clear that Email is preferred
+ - Made it clear the hierarchy of communication is specific to "urgent" information
+ - General typo fixes.
+
+### [1.2.1] - 2022-05-26
+ - Fixed bullet layout in communciation which I broke when fixing another problem.
+
+### [1.2.0] - 2022-05-26
+ - Fixed bullet layout in communciation. One too many nested bullets
+ - Added a note about I verbalise my thinking process when in person.
+ 
+### [1.1.0] - 2022-05-25
+ - Lots of typo fixes
+ - Added a section on how I process emails.
+
+### [1.0.0] - 2022-05-25
+- First release that has been shared more widely
+- Includes Quick Facts, Communication, Logistics, How I like to work, Defects, TODO
+
+
 
 
 ### TODO
